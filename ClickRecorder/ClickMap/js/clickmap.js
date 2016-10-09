@@ -2,6 +2,7 @@
    ClickMap jQuery Plugin
    By Jay Salvat
    http://www.jaysalvat.com/
+   changes on Csongi branch!
 */
 
 (function($) { 
