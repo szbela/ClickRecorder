@@ -5,4 +5,5 @@ CREATE TABLE  `clickmap` (
   `location` varchar(255) NOT NULL, 
   PRIMARY KEY  (`id`), 
   KEY `location` (`location`) 
-)
+);
+# Add mod to sql
