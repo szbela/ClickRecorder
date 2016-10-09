@@ -1,5 +1,5 @@
 <?php 
-    # Modifiy this on branch bela_szasz, and merge it to master!
+    #ADD THIS MOD ON clickmap.php
     $DB = mysql_connect("localhost", "clickmap_user", "hello767hello"); 
     mysql_select_db("clickmap_demo_db", $DB);     
     
