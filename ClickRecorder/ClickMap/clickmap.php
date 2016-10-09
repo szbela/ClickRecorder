@@ -1,4 +1,5 @@
 <?php 
+    # Modifiy this on branch bela_szasz, and merge it to master!
     $DB = mysql_connect("localhost", "clickmap_user", "hello767hello"); 
     mysql_select_db("clickmap_demo_db", $DB);     
     
